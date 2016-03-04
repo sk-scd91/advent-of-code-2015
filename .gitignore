@@ -1,0 +1,23 @@
+# Java classes and jar files.
+*.class
+*.jar
+
+# Directories
+bin/
+lib/
+out/
+.idea/
+
+# InteliJ
+*.iml
+
+# Emacs
+*~
+
+# Example Outputs
+Day?
+Day??
+
+# Mac OS X
+[Th]umbs.db
+.DS_Store
